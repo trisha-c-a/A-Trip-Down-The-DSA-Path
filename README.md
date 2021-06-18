@@ -8,13 +8,15 @@ As someone from a non-CS background who jumped relatively deep into the AI pool,
 * Maybe stand a chance at being able to solve those campus placement coding questions 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/56964258/122552247-b1df5a80-d053-11eb-9027-41724904e616.jpg" width="450" height="350" />
+  <img src="https://user-images.githubusercontent.com/56964258/122552247-b1df5a80-d053-11eb-9027-41724904e616.jpg" width="350" height="350" />
+  <br>
+  Image Credits: <a href="https://www.kaggle.com/getting-started/177451"> Kaggle</a> 
+  <br><br>
 </p>
-
 
 In order to begin this learning journey, I decided to first learn C++. I did this to challenge myself with a new programming language and to make sure I steered away from using built-in functions as much as possible. To get a basic understanding of C++, I did the [C++ FULL COURSE For Beginners (Learn C++ in 10 hours)](https://www.youtube.com/watch?v=GQp1zzTwrIg&list=RDCMUCl5-BV9aRaeDVohpE4sqJiQ&start_radio=1 "C++ FULL COURSE For Beginners (Learn C++ in 10 hours)") by [CodeBeauty](https://www.youtube.com/c/CodeBeauty/featured "CodeBeauty"). With the basics of C++ in hand, I decided to pursue the [Data Structures and Algorithms Specialization by University of California San Diego](https://www.coursera.org/specializations/data-structures-algorithms "Data Structures and Algorithms Specialization by University of California San Diego"). 
 
-I'll be honest and mention that this is not my first attempt at the UC San Diego DSA Specialization. I had registered for the courses around the summer of 2020. However, I failed to make it past the first few weeks for the following reasons:
+I'll be honest and admit that this is not my first attempt at the UC San Diego DSA Specialization. I had registered for the courses around the summer of 2020. However, I failed to make it past the first few weeks for the following reasons:
 * I was intimidated by the topics taught in the course and struggled to understand the same
 * I attempted to solve questions with little to no understanding of what I was supposed to implement.
 * I did the above after spending only an hour learning C++.
