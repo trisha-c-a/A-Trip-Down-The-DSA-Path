@@ -26,6 +26,6 @@ This experience led me down a path of attempting to better understand where I we
 Several YouTube videos and Medium articles later, coupled with a better understanding of C++, I decided to venture into this learning journey a second time.
 
 This repository is meant to be used for tracking my progress so that I consistently learn and enjoy the fruits of my work through a neatly maintained repo. 
-The code implemented will not always be the most efficient. However, I will do my best to keep the programs I implement clean, error free and make sure they clear all the edge cases. 
+The code implemented will not always be the most efficient. However, I will do my best to keep the programs I implement clean, error free and make sure they clear edge cases. 
 
 -Trisha
