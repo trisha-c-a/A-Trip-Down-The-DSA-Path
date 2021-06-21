@@ -3,7 +3,7 @@
 One of my learning goals this year has been to develop a deep understanding of Data Structures and Algorithms. 
 
 As someone from a non-CS background who jumped relatively deep into the AI pool, I decided to go on this new learning path for the following reasons:
-* Learn more about something that has always excited me--Algorithms
+* Learn more about something that has always excited me—Algorithms
 * Expand my programming skillset
 * Maybe stand a chance at being able to solve those campus placement coding questions 
 
@@ -27,5 +27,3 @@ Several YouTube videos and Medium articles later, coupled with a better understa
 
 This repository is meant to be used for tracking my progress so that I consistently learn and enjoy the fruits of my work through a neatly maintained repo. 
 The code implemented will not always be the most efficient. However, I will do my best to keep the programs I implement clean, error free and make sure they clear edge cases. 
-
--Trisha
